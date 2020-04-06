@@ -3,10 +3,13 @@ import numpy as np
 import json
 import os
 import time
-# Create blank white image
-#open the file
-inputDir=''
+
+
+#Input data
+inputDir='output//'
+
 outputDir=''
+
 jsonFile='Test.json'
 
 
